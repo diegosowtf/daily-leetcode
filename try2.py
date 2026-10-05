@@ -1,5 +1,6 @@
-numMap = {}
-for i in range(5):
-    numMap[i] = i # comprobacion 
-print(numMap)
+# numMap = {}
+# for i in range(5):
+#     numMap[i] = i # comprobacion 
+# print(numMap)
 
+print(bool(0))
