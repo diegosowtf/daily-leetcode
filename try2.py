@@ -3,6 +3,7 @@
 #     numMap[i] = i # comprobacion 
 # print(numMap)
 
-for i in range(0,10):
-    i = i + 2
-    print(i)
+a=5
+b=6
+a, b == b, a
+print(b,a)
